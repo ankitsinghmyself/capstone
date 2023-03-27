@@ -1,1 +1,2 @@
-# LittleLemonFoodDeliveryApp
+# Meta-Capstone-Project
+React Native App
